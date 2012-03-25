@@ -265,7 +265,7 @@
     <Content Include="Images\Dessert.jpg" />
     <Content Include="Images\Fruits.jpg" />
     <Content Include="Images\Movie.jpg" />
-    <Content Include="Images\Mürren.jpg" />
+    <Resource Include="Images\Murren.jpg" />
     <Content Include="Images\Neuschwanstein.jpg" />
     <Content Include="Images\Paris.jpg" />
     <Content Include="Images\Person.jpg" />
